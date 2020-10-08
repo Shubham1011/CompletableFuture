@@ -20,5 +20,5 @@ Making use of Async and having maximum three threads got me the result in 158 ms
 
 #### Without Using Async 
 
-Making use of Async and having maximum three threads got me the result in 878 ms
+having maximum three threads got me the result in 878 ms
 ![alt text](withoutasync.PNG)
